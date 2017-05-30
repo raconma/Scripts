@@ -5,4 +5,4 @@ Random Stupid Shit
 * **In progress**
 
 * **Finished**
-    * bulletcatfacts clipboard script
+    * catfacts clipboard script
