@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 import json
 import urllib
-import time
 import pyperclip
 
 url = "http://catfacts-api.appspot.com/api/facts"
